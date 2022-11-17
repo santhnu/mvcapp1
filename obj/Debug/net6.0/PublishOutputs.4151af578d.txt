@@ -1,0 +1,7 @@
+C:\DotNetTricks\Projects\Gitlab\bin\Debug\net6.0\publish\Gitlab.exe
+C:\DotNetTricks\Projects\Gitlab\bin\Debug\net6.0\publish\appsettings.Development.json
+C:\DotNetTricks\Projects\Gitlab\bin\Debug\net6.0\publish\appsettings.json
+C:\DotNetTricks\Projects\Gitlab\bin\Debug\net6.0\publish\Gitlab.dll
+C:\DotNetTricks\Projects\Gitlab\bin\Debug\net6.0\publish\Gitlab.deps.json
+C:\DotNetTricks\Projects\Gitlab\bin\Debug\net6.0\publish\Gitlab.runtimeconfig.json
+C:\DotNetTricks\Projects\Gitlab\bin\Debug\net6.0\publish\Gitlab.pdb
